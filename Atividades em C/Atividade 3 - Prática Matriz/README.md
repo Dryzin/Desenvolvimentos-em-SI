@@ -5,7 +5,7 @@
 
 ## Objetivo: Escrever um programa em C para analisar os dados meteorológicos e fornecer informações úteis sobre o clima durante o mês.
 
-### Crie uma matriz para armazenar os dados meteorológicos de um mês, com cada linha representando um dia e cada coluna contendo a temperatura ### máxima e mínima desse dia. Leia os valores da matriz a partir de um arquivo (anexo).
+### Crie uma matriz para armazenar os dados meteorológicos de um mês, com cada linha representando um dia e cada coluna contendo a temperatura máxima e mínima desse dia. Leia os valores da matriz a partir de um arquivo (anexo).
 ### Calcule e apresente as seguintes informações:
 
 ### a)     A temperatura média máxima do mês.
